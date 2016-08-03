@@ -1,0 +1,19 @@
+baseurl = "localhost:1313"
+languageCode = "es-Es"
+contentdir = "content/post"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+title = "Antonio Jiménez Velázquez"
+theme = "purehugo"
+Paginate = 5
+disqusShortname = "n0ni0"
+
+[author]
+  name  = "Antonio Jiménez Velázquez"
+  email = "ajimenez.bf@gmail.com"
+
+[params]
+  githubName  = "n0ni0"
+  twitterName = "nonio_87"
+  description = "Personal blog about my GitHub repos"
